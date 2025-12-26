@@ -1,0 +1,4 @@
+Name is: Abid Hasan, Age is: 21
+Name is: Noushin, Age is: 20
+Name is: Trisha, Age is: 20
+Name is: Abid Hasan, Age is: 21
